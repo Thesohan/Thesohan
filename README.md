@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesohan&layout=compact&theme=falg-india&langs_count=100)](https://github.com/anuraghazra/github-readme-stats)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Thesohan&theme=flag-india&show_icons=true&layout=compac&count_private=true)
 
 <!--
 **Thesohan/Thesohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
