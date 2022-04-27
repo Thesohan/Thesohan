@@ -14,10 +14,10 @@ Sohan Kathait, Mobile Apps and System design enthusiast.
 - Mobile app development 📱 - Flutter, Android
 - Databases - MySQL, PostgreSQL, Firebase database
 - Others - AWS, Docker, Git, bash, CircleCI, Lambda, Sendgrid, API blueprint, Postman, Heroku
-- I'm a quick lerner and know how to get things done in given deadline 😎
 
 ## Anything else 🤔
 - Love to play Cricket, Chess
+- I'm a quick lerner and know how to get things done in given deadline 😎
 
 <!-- ## Links 😍
 
