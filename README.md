@@ -4,10 +4,9 @@
 Sohan Kathait, Mobile Apps and System design enthusiast.
 
 ## Experience 👨‍🔧️
-- Building and Scaling The Fastest Diagnostic Lab at [Orange Health](https://www.orangehealth.in/)
-- Worked as a Sr. product engineer at [Loyalty Juggernaut](https://www.lji.io/)
-- Worked as a product engineer at [Loyalty Juggernaut](https://www.lji.io/)
-- Explored various tech stack from 2018-2020 viz: Android, Flutter, Firebase, Django, Deep learning/ML/AI (beginner),
+- Worked as a Software Engineer 1 and 2 at the Fastest Diagnostic Lab at [Orange Health](https://www.orangehealth.in/)
+- Worked as a product engineer and Sr. Product Engineer at [Loyalty Juggernaut](https://www.lji.io/)
+- Explored various tech stacks from 2018-2020 viz: Android, Flutter, Firebase, Django, Deep learning/ML/AI (beginner),
 
 ## Tech I have worked with 👨‍💻️
 - Languages - JavaScript, TypeScript, Python, Java, C, C++, Dart, Go.
