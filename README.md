@@ -2,7 +2,8 @@
 
 ## Who am I 👔
 Sohan Kathait, Mobile Apps and System design enthusiast.
-
+## Expert 🥇
+- GO, Python, Redis, Postgres, Docker, Backend
 ## Experience 👨‍🔧️
 - Founding backend software engineer at the network security startup [Ariksa](https://www.ariksa.com/)
 - Software Engineer 1 and 2 at the Fastest Diagnostic Lab at [Orange Health](https://www.orangehealth.in/)
