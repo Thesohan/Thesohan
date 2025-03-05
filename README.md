@@ -3,7 +3,7 @@
 ## Who am I 👔
 Sohan Kathait, Mobile Apps and System design enthusiast.
 ## Expert 🥇
-- GO, Python, Redis, Postgres, Docker, Backend
+- GO, Python, Redis, Postgres, Docker, Backend, Distributed Systems
 ## Experience 👨‍🔧️
 - Founding backend software engineer at the network security startup [Ariksa](https://www.ariksa.com/)
 - Software Engineer 1 and 2 at the Fastest Diagnostic Lab at [Orange Health](https://www.orangehealth.in/)
@@ -12,11 +12,11 @@ Sohan Kathait, Mobile Apps and System design enthusiast.
 
 ## Tech I have worked with 👨‍💻️
 - Languages - JavaScript, TypeScript, Python, Java, C, C++, Dart, Go, shell,
-- Back-end frameworks & tech - Django, express, gin, fastapi, Migrations management, Linux, outposts as systemd services
+- Back-end frameworks & tech - Django, express, SQLAlchemy,gorm, cobra,grpc, django-rest-framework- gin, fastapi, Migrations management, Linux, outposts as systemd services
 - Mobile app development 📱 - Flutter, Android
-- Databases - MySQL, PostgreSQL, Firebase database, neo4j, Cassandra, 
+- Databases - MySQL, PostgreSQL, Firebase database, neo4j, Cassandra, Redshift, DynanmoDB
 - Others - AWS, Docker, Git, bash, CircleCI, Lambda, Sendgrid, API blueprint, Postman, Heroku, k8s, SQS, GCP,AZURE
-- Architecture - Multi-tenant, Monolith, Micro-Services, Serverless, Push-Pull, PubSub, 
+- Architecture - Multi-tenant, Monolith, Micro-Services, Serverless, Push-Pull, PubSub, Outposts Deployment
 
 ## Anything else 🤔
 - Love to play Cricket, Chess, Driving
