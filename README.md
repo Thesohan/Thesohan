@@ -28,4 +28,4 @@ Sohan Kathait, Mobile Apps and System design enthusiast.
  -->
 
 
-https://thesohan.github.io/portfolio/#/
+https://thesohan.github.io/
